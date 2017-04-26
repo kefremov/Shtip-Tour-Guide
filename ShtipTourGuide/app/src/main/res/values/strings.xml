@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shtip Tour Guide</string>
+
+    <string name="landmarks">Landmarks</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="nightclubs">Nightclubs</string>
+    <string name="schools">Schools</string>
+</resources>
